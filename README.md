@@ -12,7 +12,7 @@ Este projeto Spring GeoService permite obter coordenadas geográficas e informa�
 ## Como Executar
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/spring-geoservice.git
+    git clone https://github.com/Paulocesar90/Spring-Geo-Service.git
     ```
 
 2. Navegue até a pasta do projeto:
